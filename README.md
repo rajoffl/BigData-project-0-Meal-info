@@ -1,4 +1,4 @@
-# Project0-mongodb
+# Meal Info - Project0
 In this Project, MongoDB used as Database for weekly demand 
 
 # Requirements
